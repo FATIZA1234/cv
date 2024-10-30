@@ -1,0 +1,41 @@
+
+body {
+    color:#000000; 
+    font-family: Arial, sans-serif;
+    background-image: url('image cv.jpg'); 
+    background-size: cover;    
+}
+header img {
+    display: block;
+    margin: 0 auto; 
+    width: 250px;
+    height: 250; 
+    border-radius: 20%; 
+    border: 8px solid #58928c; 
+}
+
+/* Style pour les sections */
+section {
+    border: 5px solid #58928c; 
+    border-radius: 8px; 
+    padding: 10px; 
+    margin: 10px; 
+    background-color: #fefefe ; 
+}
+h1, h2{
+    text-align: center; 
+}
+section {
+    border: 1px solid  #58928c  ; 
+    padding: 15px; 
+    margin: 15px3; 
+    background-color:#ebfffe   ;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2); 
+}
+
+a:hover {
+    color: #0b5299 ; 
+    text-decoration: underline; 
+a:visited {
+    color: #629cac ; 
+}
